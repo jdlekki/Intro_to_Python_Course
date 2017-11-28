@@ -10,4 +10,5 @@ https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Fun
 ###Course code
 https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/class1_scratchpad.ipynb
 ###Data analysis with Panda
+/n
 https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb
