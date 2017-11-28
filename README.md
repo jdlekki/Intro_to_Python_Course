@@ -9,3 +9,5 @@ https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Fun
 https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb
 ###Course code
 https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/class1_scratchpad.ipynb
+###Data analysis with Panda
+https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb
